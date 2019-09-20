@@ -8,7 +8,7 @@ public class stati {
     }
     public static void eat(){
         System.out.println(s);
-
+        System.out.println("kk");
     }
     public void aa(){
         eat();
