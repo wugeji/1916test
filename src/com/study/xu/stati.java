@@ -9,6 +9,7 @@ public class stati {
     public static void eat(){
         System.out.println(s);
         System.out.println("kk");
+        System.out.println("远程操作")
     }
     public void aa(){
         eat();
